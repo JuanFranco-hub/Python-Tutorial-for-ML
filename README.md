@@ -13,13 +13,13 @@ Este curso está estructurado en varias secciones, cada una diseñada para ense�
 | [Configuración y Notebooks](./Lecciones/Lec01_Jupyter_Colab.ipynb) | Instalación de Python, configuración de Jupyter Notebooks. | N/A | N/A |
 | [Sintaxis y Tipos](./Lecciones/Lec01_Jupyter_Colab.ipynb) | Sintaxis básica, tipos de variables en Python. | [Ir a ejercicios](#) | N/A |
 | [Sentencias de Control](./Lecciones/Lec03_Sentencias_Control.ipynb) | Condicionales, bucles y control de flujo en Python. | [Ir a ejercicios](#) | N/A |
-| [Secuencias](./Lecciones/) | Trabajo con listas, tuplas y rangos. | [Ir a ejercicios](#) | N/A |
+| [Secuencias](./Lecciones/) | Trabajo con listas, tuplas y strings. | [Ir a ejercicios](#) | N/A |
 | [Funciones](./Lecciones/) | Definición y uso de funciones en Python. | [Ir a ejercicios](#) | N/A |
-| [Diccionarios y Conjuntos](./Lecciones/) | Uso de diccionarios y conjuntos en Python. | [Ir a ejercicios](#) | N/A |
-| [Comprensiones e Iteradores](./Lecciones/) | Comprensiones de listas, generadores e iteradores. | [Ir a ejercicios](#) | N/A |
+| [Diccionarios](./Lecciones/) | Uso de diccionarios en Python. | [Ir a ejercicios](#) | N/A |
+| [Comprensiones](./Lecciones/) | Comprensiones de listas, Diccionarios y Conjuntos. | [Ir a ejercicios](#) | N/A |
 | [Evaluación Perezosa](./Lecciones/) | Introducción a la evaluación perezosa con generadores. | [Ir a ejercicios](#) | N/A |
 | [Procesamiento de Cadenas](./Lecciones/) | Manipulación de cadenas y técnicas de procesamiento de texto. | [Ir a ejercicios](#) | N/A |
-| [Archivos y Scripts](./Lecciones/) | Trabajo con archivos y creación de scripts en Python. | [Ir a ejercicios](#) | N/A |
+| [Archivos](./Lecciones/) | Trabajo con archivos .txt, .json, .csv.. en Python. | [Ir a ejercicios](#) | N/A |
 | [Módulos y Paquetes](./Lecciones/) | Importar y organizar código con módulos y paquetes. | [Ir a ejercicios](#) | N/A |
 | [Programación Orientada a Objetos](./Lecciones/) | Clases, objetos, herencia y principios de la POO. | [Ir a ejercicios](#) | N/A |
 | [Excepciones](./Lecciones/) | Manejo de errores con try, except y raising exceptions. | [Ir a ejercicios](#) | N/A |
