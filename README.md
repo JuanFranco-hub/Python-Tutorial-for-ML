@@ -22,7 +22,7 @@ Este curso está estructurado en varias secciones, cada una diseñada para ense�
 | [Archivos](./Lecciones/) | Trabajo con archivos .txt, .json, .csv.. en Python. | [Ir a ejercicios](#) | N/A |
 | [Módulos y Paquetes](./Lecciones/) | Importar y organizar código con módulos y paquetes. | [Ir a ejercicios](#) | N/A |
 | [Programación Orientada a Objetos](./Lecciones/) | Clases, objetos, herencia y principios de la POO. | [Ir a ejercicios](#) | N/A |
-| [Manejo de Errores](./Lecciones/) | Excepciones y pruebas en código. | [Ir a ejercicios](#) | N/A |
+| [Manejo de Errores](./Lecciones/) | Excepciones de pruebas en código. | [Ir a ejercicios](#) | N/A |
 | [Integración con el Sistema Operativo](./Lecciones/) | Interacción con el sistema operativo usando Python. | [Ir a ejercicios](#) | N/A |
 | [Concurrencia](./Lecciones/) | Multihilo y multiproceso en Python. | [Ir a ejercicios](#) | N/A |
 | [Matching de Patrones Estructurales](./Lecciones/) | Uso del pattern matching estructural en Python. | [Ir a ejercicios](#) | N/A |
