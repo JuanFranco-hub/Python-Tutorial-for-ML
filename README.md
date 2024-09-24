@@ -16,11 +16,11 @@ Este curso está estructurado en varias secciones, cada una diseñada para ense�
 | [Secuencias](./Lecciones/Lec04_Secuencias.ipynb) | Trabajo con listas, tuplas y strings. | [Ir a ejercicios](#) | N/A |
 | [Funciones](./Lecciones/Lec05_Funciones.ipynb) | Definición y uso de funciones en Python. | [Ir a ejercicios](#) | N/A |
 | [Diccionarios](./Lecciones/Lec06_Diccionarios.ipynb) | Uso de diccionarios en Python. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Diccionario.ipynb) | N/A |
-| [Comprensiones](./Lecciones/Lec07_Comprensiones.ipynb) | Comprensiones de listas, Diccionarios y Conjuntos. | [Ir a ejercicios](#) | N/A |
+| [Comprensiones](./Lecciones/Lec07_Comprensiones.ipynb) | Comprensiones de listas, Diccionarios y Conjuntos. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Comprensiones.ipynb) | N/A |
 | [Evaluación Perezosa](./Lecciones/Lec08_Evaluacion_Perezosa.ipynb) | Introducción a la evaluación perezosa con generadores. | [Ir a ejercicios](#) | N/A |
-| [Procesamiento de Cadenas](./Lecciones/Lec09_Procesamiento_Cadenas.ipynb) | Manipulación de cadenas y técnicas de procesamiento de texto. | [Ir a ejercicios](#) | N/A |
+| [Procesamiento de Cadenas](./Lecciones/Lec09_Procesamiento_Cadenas.ipynb) | Manipulación de cadenas y técnicas de procesamiento de texto. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Procesamiento de Cadenas.ipynb) | N/A |
 | [Archivos](./Lecciones/Lec10_Archivos.ipynb) | Trabajo con archivos .txt, .json, .csv.. en Python. | [Ir a ejercicios](#) | N/A |
-| [Módulos y Paquetes](./Lecciones/Lec11_Modulos_Paquetes.ipynb) | Importar y organizar código con módulos y paquetes. | [Ir a ejercicios](#) | N/A |
+| [Módulos y Paquetes](./Lecciones/Lec11_Modulos_Paquetes.ipynb) | Importar y organizar código con módulos y paquetes. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Modulos y Paquetes.ipynb) | N/A |
 | [Programación Orientada a Objetos](./Lecciones/Lec12_POO.ipynb) | Clases, objetos, herencia y principios de la POO. | [Ir a ejercicios](#) | N/A |
 | [Manejo de Errores](./Lecciones/Lec13_Manejo_Errores.ipynb) | Excepciones de pruebas en código. | [Ir a ejercicios](#) | N/A |
 | [Integración con el Sistema Operativo](./Lecciones/) | Interacción con el sistema operativo usando Python. | [Ir a ejercicios](#) | N/A |
