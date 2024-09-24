@@ -15,7 +15,7 @@ Este curso está estructurado en varias secciones, cada una diseñada para ense�
 | [Sentencias de Control](./Lecciones/Lec03_Sentencias_Control.ipynb) | Condicionales, bucles y control de flujo en Python. | [Ir a ejercicios](#) | N/A |
 | [Secuencias](./Lecciones/Lec04_Secuencias.ipynb) | Trabajo con listas, tuplas y strings. | [Ir a ejercicios](#) | N/A |
 | [Funciones](./Lecciones/Lec05_Funciones.ipynb) | Definición y uso de funciones en Python. | [Ir a ejercicios](#) | N/A |
-| [Diccionarios](./Lecciones/Lec06_Diccionarios.ipynb) | Uso de diccionarios en Python. | [Ir a ejercicios](#) | N/A |
+| [Diccionarios](./Lecciones/Lec06_Diccionarios.ipynb) | Uso de diccionarios en Python. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Diccionario.ipynb) | N/A |
 | [Comprensiones](./Lecciones/Lec07_Comprensiones.ipynb) | Comprensiones de listas, Diccionarios y Conjuntos. | [Ir a ejercicios](#) | N/A |
 | [Evaluación Perezosa](./Lecciones/Lec08_Evaluacion_Perezosa.ipynb) | Introducción a la evaluación perezosa con generadores. | [Ir a ejercicios](#) | N/A |
 | [Procesamiento de Cadenas](./Lecciones/Lec09_Procesamiento_Cadenas.ipynb) | Manipulación de cadenas y técnicas de procesamiento de texto. | [Ir a ejercicios](#) | N/A |
