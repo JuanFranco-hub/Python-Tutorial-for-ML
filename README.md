@@ -23,7 +23,7 @@ Este curso está estructurado en varias secciones, cada una diseñada para ense�
 | [Módulos y Paquetes](./Lecciones/Lec11_Modulos_Paquetes.ipynb) | Importar y organizar código con módulos y paquetes. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Modulos%20y%20Paquetes.ipynb) | N/A |
 | [Programación Orientada a Objetos](./Lecciones/Lec12_POO.ipynb) | Clases, objetos, herencia y principios de la POO. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/POO%20y%20Excepciones.ipynb) | N/A |
 | [Manejo de Errores](./Lecciones/Lec13_Manejo_Errores.ipynb) | Excepciones de pruebas en código. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Manejo%20de%20Errores.ipynb) | N/A |
-| [Integración con el Sistema Operativo](./Lecciones/) | Interacción con el sistema operativo usando Python. | [Ir a ejercicios](#) | N/A |
+| [Integración con el Sistema Operativo](./Lecciones/Lec14_Sistema_Operativo.ipynb) | Interacción con el sistema operativo usando Python. | [Ir a ejercicios](#) | N/A |
 | [Concurrencia](./Lecciones/) | Multihilo y multiproceso en Python. | [Ir a ejercicios](#) | N/A |
 | [Matching de Patrones Estructurales](./Lecciones/) | Uso del pattern matching estructural en Python. | [Ir a ejercicios](#) | N/A |
 | [Arrays](./Lecciones/) | Trabajo con arrays en Python usando librerías como NumPy. | [Ir a ejercicios](#) | N/A |
