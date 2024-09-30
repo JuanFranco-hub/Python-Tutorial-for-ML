@@ -11,10 +11,10 @@ Este curso está estructurado en varias secciones, cada una diseñada para ense�
 | ----- | ----- | ----- | ----- |
 | [Introducción](./Lecciones/Lec00_Intro_Python.ipynb) | Descripción general de Python y sus usos. | N/A | N/A |
 | [Configuración y Notebooks](./Lecciones/Lec01_Jupyter_Colab.ipynb) | Instalación de Python, configuración de Jupyter Notebooks. | N/A | N/A |
-| [Sintaxis y Tipos](./Lecciones/Lec02_Sintaxis_Tipos.ipynb) | Sintaxis básica, tipos de variables en Python. | [Ir a ejercicios](#) | N/A |
-| [Sentencias de Control](./Lecciones/Lec03_Sentencias_Control.ipynb) | Condicionales, bucles y control de flujo en Python. | [Ir a ejercicios](#) | N/A |
+| [Sintaxis y Tipos](./Lecciones/Lec02_Sintaxis_Tipos.ipynb) | Sintaxis básica, tipos de variables en Python. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Sintaxis.ipynb) | N/A |
+| [Sentencias de Control](./Lecciones/Lec03_Sentencias_Control.ipynb) | Condicionales, bucles y control de flujo en Python. | [Ir a ejercicios](https://github.com/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Sentencias_de_control.ipynb) | N/A |
 | [Secuencias](./Lecciones/Lec04_Secuencias.ipynb) | Trabajo con listas, tuplas y strings. | [Ir a ejercicios](#) | N/A |
-| [Funciones](./Lecciones/Lec05_Funciones.ipynb) | Definición y uso de funciones en Python. | [Ir a ejercicios](#) | N/A |
+| [Funciones](./Lecciones/Lec05_Funciones.ipynb) | Definición y uso de funciones en Python. | [Ir a ejercicios]([#](https://github.com/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Funciones.ipynb)) | N/A |
 | [Diccionarios](./Lecciones/Lec06_Diccionarios.ipynb) | Uso de diccionarios en Python. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Diccionario.ipynb) | N/A |
 | [Comprensiones](./Lecciones/Lec07_Comprensiones.ipynb) | Comprensiones de listas, Diccionarios y Conjuntos. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Comprensiones.ipynb) | N/A |
 | [Evaluación Perezosa](./Lecciones/Lec08_Evaluacion_Perezosa.ipynb) | Introducción a la evaluación perezosa con generadores. | [Ir a ejercicios](#) | N/A |
@@ -28,7 +28,7 @@ Este curso está estructurado en varias secciones, cada una diseñada para ense�
 | [Matching de Patrones Estructurales](./Lecciones/) | Uso del pattern matching estructural en Python. | [Ir a ejercicios](#) | N/A |
 | [Arrays](./Lecciones/) | Trabajo con arrays en Python usando librerías como NumPy. | [Ir a ejercicios](#) | N/A |
 | [Datos](./Lecciones/) | Manejo, manipulación y análisis de datos. | [Ir a ejercicios](#) | N/A |
-| [Visualización](./Lecciones/) | Visualización de datos usando librerías como Matplotlib y Seaborn. | [Ir a ejercicios](#) | N/A |
+| [Visualización](./Lecciones/) | Visualización de datos usando librerías como Matplotlib y Seaborn. | [Ir a ejercicios](https://colab.research.google.com/github/JuanFranco-hub/Python-Tutorial-for-ML/blob/main/Ejercicios/Visualizacion.ipynb) | N/A |
 | [Machine Learning](./Lecciones/) | Introducción a conceptos básicos de machine learning. | [Ir a ejercicios](#) | N/A |
 
 ## Sobre este curso
